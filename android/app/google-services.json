@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39463597617",
+    "project_id": "universitys-yemen",
+    "storage_bucket": "universitys-yemen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39463597617:android:cd35e10734ccbc5fde8710",
+        "android_client_info": {
+          "package_name": "com.example.university"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNYABNmiKvMYEGrW6UyWRhWxlte99ReU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
